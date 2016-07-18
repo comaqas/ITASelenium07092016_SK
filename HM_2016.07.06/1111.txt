@@ -1,1 +1,11 @@
 111111111
+
+cd C:\it-academy\ITASelenium07092016_SK_HomeWork
+git add HM_2016.07.06
+git commit -m "my first file"
+
+git config --global user.name "ITASelenium07092016SK"
+
+git config --global user.email svetlana.kashtelyan@tut.by
+
+git push https://github.com/comaqas/ITASelenium07092016_SK_HomeWork.git master
